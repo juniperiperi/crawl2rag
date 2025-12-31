@@ -9,7 +9,7 @@ requests==2.32.3
 typing-extensions==4.12.2
 fastapi>=0.109.1
 uvicorn==0.27.0
-setuptools==70.0.0
+setuptools==78.1.1
 python-jose
 pymongo==4.11.3
 langgraph-checkpoint-mongodb==0.1.3
